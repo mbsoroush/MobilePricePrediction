@@ -6,7 +6,7 @@ The dataset used in this project is available on my Kaggle page:
 👉 [Mobile Price Range](https://www.kaggle.com/datasets/mbsoroush/mobile-price-range).
 
 ## 📌 Features
--  Exploratory Data Analysis (EDA) to understanding the dataset.
+-  Exploratory Data Analysis (EDA) to understand the dataset.
 -  Implements Decision Tree, Random Forest, and SVM for classification.
 -  Ensemlbe Learning, Feature selection and engineering to improve model accuracy.
 -  Visualization using Matplotlib, Seaborn, and Plotly.
